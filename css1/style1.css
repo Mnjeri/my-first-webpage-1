@@ -1,0 +1,14 @@
+h1 {
+ color: blue;
+}
+p {
+  text-align: justify;
+  font-family: sans-serif;
+  line-height: 4em;
+}
+
+li {
+font-style: oblique;
+font-weight: 500;
+font-size: 28px;
+}
